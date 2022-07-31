@@ -11,6 +11,8 @@
 
 > Simple backdoor script (educational purposes only)
 
+Add this to your project to make it run in system32 folder on execution!
+
 ## 👤 〢 Author
 
 👤 **CookiesKush420** 
