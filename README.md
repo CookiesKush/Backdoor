@@ -11,7 +11,7 @@
 
 > Simple backdoor script (educational purposes only)
 
-## 👤 〢 Authors
+## 👤 〢 Author
 
 👤 **CookiesKush420** 
 
