@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to Cookies Simple Backdoor Script 👋</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" >
   <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" >
   <img src="https://img.shields.io/github/last-commit/Callumgm/Backdoor">
   <a href="https://twitter.com/Flashouttt" target="_blank">
